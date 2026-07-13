@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
