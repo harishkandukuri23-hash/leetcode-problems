@@ -3,7 +3,7 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        low=0
+        low=1
         high=n
         ans=-1
         while(low<=high):
