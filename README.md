@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [1480-running-sum-of-1d-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
