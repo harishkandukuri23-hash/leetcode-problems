@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
