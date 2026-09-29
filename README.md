@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
