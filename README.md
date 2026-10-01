@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0390-elimination-game) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
