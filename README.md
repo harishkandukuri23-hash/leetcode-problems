@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0390-elimination-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0390-elimination-game) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 <!---LeetCode Topics End-->
