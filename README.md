@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,8 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
