@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0390-elimination-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0390-elimination-game) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0461-hamming-distance) |
 ## Linked List
 |  |
