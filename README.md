@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0461-hamming-distance) |
 ## Linked List
 |  |
