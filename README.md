@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
