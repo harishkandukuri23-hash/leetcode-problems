@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0875-koko-eating-bananas) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
