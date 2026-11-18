@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
@@ -133,4 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harishkandukuri23-hash/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
